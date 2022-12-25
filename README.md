@@ -1,5 +1,5 @@
 # Wordle - Django, Js, html, css
- Copy of Wordle website made during the Busertech project for academic purposes
+ Copy of Wordle website made for practice python and js
  
  PREVIEW: https://rdemora2.github.io/Wordle--noDjango/
  
