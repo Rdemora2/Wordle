@@ -11,7 +11,7 @@ let attempt = [];
 let rowActual = 0;
 
 // palavra do dia
-let dayword = "BUSER";
+let dayword = "TESTE";
 
 // contador para for da função valida
 let counter = 0;
